@@ -22,6 +22,6 @@ Semantic HTML are elements the tells the browser and developer what each part of
 
 * < aside >       Extra information or a sidebar.
 
-*< footer >     This represent the bottom section of a page.
+* < footer >     This represent the bottom section of a page.
 
-*< figcaptipon >  This are images diagrams .
+* < figcaptipon >  This are images diagrams .
