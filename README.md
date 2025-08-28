@@ -10,17 +10,17 @@ Semantic HTML are elements the tells the browser and developer what each part of
 * Hgh accessibility rate making it easy for screen readers to interpret the content correctly
 * Easy to maintain and fix errors.
 ## Common Semantic Elements
-*< header >     Defines the top section page usually containing navigation branding.
+* < header >     Defines the top section page usually containing navigation branding.
 
-*< nav >        Contains the navigation link.
+* < nav >        Contains the navigation link.
 
-*< section >     It is a part of a page ,it puts related content in one group .
+* < section >     It is a part of a page ,it puts related content in one group .
 
-*< main >       This is the main content of the document or file.
+* < main >       This is the main content of the document or file.
 
-*< article >    It shows a self contained content,an independent piece of content like a blog.
+* < article >    It shows a self contained content,an independent piece of content like a blog.
 
-*< aside >       Extra information or a sidebar.
+* < aside >       Extra information or a sidebar.
 
 *< footer >     This represent the bottom section of a page.
 
