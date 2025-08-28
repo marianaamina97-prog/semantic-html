@@ -13,7 +13,7 @@ Semantic HTML are elements the tells the browser and developer what each part of
 * < header >     Defines the top section page usually containing navigation branding.
 
 * < nav >        Contains the navigation link.
-
+  
 * < section >     It is a part of a page ,it puts related content in one group .
 
 * < main >       This is the main content of the document or file.
@@ -24,4 +24,7 @@ Semantic HTML are elements the tells the browser and developer what each part of
 
 * < footer >     This represent the bottom section of a page.
 
-* < figcaptipon >  This are images diagrams .
+* < figcaptipon >  This are images diagrams 
+
+Using semantic elements make's it easy to collaborate with other developers
+
